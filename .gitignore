@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\dasha\scrapy2023\src\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+.idea
+.DS_Store
+__pycache__
+logs
+*.json
+final_txt
